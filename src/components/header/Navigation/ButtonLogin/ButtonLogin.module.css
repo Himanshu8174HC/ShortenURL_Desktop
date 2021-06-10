@@ -1,0 +1,23 @@
+.ButtonLogin{
+    
+    font-size:15px;
+    padding-top:10px;
+    margin-right: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+    opacity: 1;
+    color:#9e9aa7;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0em;
+    border : none;
+    background-color: #ffffffff;
+    margin-top: -1px;
+    
+    
+}
+.ButtonLogin:hover{
+    color : black;
+    cursor: pointer;
+    
+}

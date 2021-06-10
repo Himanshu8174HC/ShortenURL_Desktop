@@ -1,0 +1,539 @@
+
+.Main{
+    width:100vw;
+    background-color:rgb(238, 237, 237);
+    font-family: Poppins;
+    
+}
+
+.card1{
+    padding-left: 7vw;
+    background-color: white;
+    display : flex;
+    flex-direction: row;
+    padding-bottom: 10vw;
+}
+
+
+.Button{
+    margin-right: 15vw;
+    background-color: #2acfcf;
+    border-radius: 1vw;
+    opacity: 1;
+    display: inline-block;
+    font-size:1.5vw;
+    padding:1.2vw;
+   
+    font-weight: bold;
+    opacity: 1;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0em;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    margin-top: -0.1vw !important;
+    
+    
+}
+.Button:hover{
+    opacity: 50%;
+    cursor: pointer
+}
+
+.Button1{
+    /* margin-right: 150px; */
+    background-color: #2acfcf;
+    border-radius: 1vw;
+    opacity: 1;
+    display: inline-block;
+    font-size:1.5vw;
+    padding:1.2vw;
+    width: 12vw;
+    margin-top: 2vw;
+    font-weight: bold;
+    opacity: 1;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0em;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    /* margin-top: -1px !important; */
+    
+    
+}
+.Button1:hover{
+    opacity: 50%;
+    cursor: pointer
+}
+
+
+.heading1{
+    width :35vw;
+    text-align: left;
+    font: Medium 5vw/6vw Poppins;
+    font-size: 4vw;
+    letter-spacing: 0px;
+    color: #264653;
+    opacity: 1;
+}
+
+.divide1{
+    width:50vw;
+    
+}
+
+.para1{
+    text-align: left;
+    font: Regular 2.5vw/4vw Segoe UI;
+    font-size: 2vw;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    
+    font-weight: 450;
+    width:35vw;
+}
+
+
+.image1{
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+    width:35vw;
+    margin-right: 0vw;
+    margin-left: 5vw;
+}
+
+.urlInput{
+    height:3.7vw;
+    border: 0.5vw line pink;
+    font-family : "Poppins";
+    font-size: 2.5vw;
+    border-radius: 1vw;
+    border-width: 0.3vw;
+    border-color: #f04d68;
+    width : 53vw;
+    
+}
+::-webkit-input-placeholder { 
+    
+   
+    color: pink;
+    
+    
+}
+
+.URLinputBlock{
+    margin-top: -4vw;
+    border-radius: 1vw;
+    height:8.5vw;
+    width:80vw;
+    margin-right: 10vw;
+    margin-left: 10vw;
+    display: flex;
+    flex-direction: row;
+    background-color: #3f3655;
+    background-image: url('../../assets/images/linkImg.svg');
+}
+.URLinputBlock2{
+    width : 53vw;
+    margin-left: 5vw;
+    margin-right: 2vw;
+    margin-top: 2vw;
+}
+
+.URLinputBlock2 p{
+    font-size: 1.2vw;
+    margin-left: 0.5vw;
+} 
+.URLinputBlock3{
+    width :15vw;
+    
+    margin-right: 7vw;
+    
+}
+.storeData{
+    margin-top: 1vw;
+    background-color: white;
+    width : 80vw;
+    margin-right:10vw;
+    margin-left:10vw;
+    border-radius: 1vw;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.storeData  .rightData {
+    text-align: right;
+    width : 20vw;
+    margin-right: 2vw;
+    margin-left: 1vw;
+    margin-top:1.5vw;
+    margin-bottom: 0.5vw
+    
+
+}
+.storeData  .leftData{
+    text-align: left;
+    width : 40vw;
+    margin-right: 1vw;
+    margin-left: 3vw;
+    margin-top:1.5vw;
+    margin-bottom: 0.5vw
+
+
+}
+.storeData .dataButton{
+    color:white;
+    width:8vw;
+    margin-left:2vw;
+    margin-right:1vw;
+    background-color: #2acfcf;
+    border-radius: 1vw;
+    opacity: 1;
+    display: inline-block;
+    font-size:1.5vw;
+    padding:1.4vw;
+   
+    font-weight: bold;
+    opacity: 1;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0em;
+    margin-top:0.5vw;
+    margin-bottom: 0.5vw
+    
+
+}
+.storeData .dataButton:hover{
+    opacity: 50%;
+    cursor: pointer
+}
+
+
+
+
+
+
+
+.CardBlock{
+    width:50vw;
+    justify-content: center;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    font: Medium  Poppins;
+    
+    letter-spacing: 0px;
+    opacity: 1;
+    font-size:1.7vw;
+    text-align: center;
+    
+    
+}
+
+
+.card5{
+    
+    margin-left: 10vw;
+    margin-right: 10vw;
+    border-radius: 1vw;
+    opacity: 1;
+    margin-top:6vw;
+    text-align: center;
+    
+   
+}
+
+
+
+.divide{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.card51{
+    border-radius: 1vw;
+    margin-top: 5vw;
+    width:25vw;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+   
+    
+    opacity: 1;
+    height: 20vw;
+}
+
+.card52{
+    border-radius: 1vw;
+    margin-top: 10vw;
+    width:25vw;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+   
+    
+    opacity: 1;
+    height: 20vw;
+}
+
+.card53{
+    border-radius: 1vw;
+    margin-top: 15vw;
+    width:25vw;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+   
+    
+    opacity: 1;
+    height: 20vw;
+}
+
+.dash{
+    height: 0.7vw;
+    width:3.5vw;
+    background-color:#47b9b9;
+    margin-top:19vw
+}
+
+.card51  .BlockImg1 img{
+    
+    margin-top: 1.2vw;
+    width: 2vw;
+
+}
+.BlockImg1{
+    margin-top:-2vw;
+    margin-left :2vw;
+    width: 4.5vw;
+    height :4.5vw;
+    background-color:#3f3655;
+    border-radius: 50%;
+}
+
+.card52  .BlockImg2 img{
+    
+    margin-top: 1.2vw;
+    width: 2vw;
+
+}
+.BlockImg2{
+    margin-top:-2vw;
+    margin-left :2vw;
+    width: 4.5vw;
+    height :4.5vw;
+    background-color:#3f3655;
+    border-radius: 50%;
+}
+.card53  .BlockImg3 img{
+    
+    margin-top: 1.2vw;
+    width: 2vw;
+
+}
+.BlockImg3{
+    
+    margin-top:-2vw;
+    margin-left :2vw;
+    width: 4.5vw;
+    height :4.5vw;
+    background-color:#3f3655;
+    border-radius: 50%;
+}
+
+.subheading{
+    margin-top:3vw;
+    text-align: left;
+    font-family: Poppins;
+    letter-spacing: 0px;
+    color: black;
+    opacity: 1;
+    font-size: 2.1vw;
+    margin-left:3vw;
+    font-weight: 900;
+}
+
+.subpara{
+    text-align: left;
+    font: Regular 20px/35px Segoe UI;
+    letter-spacing: 0px;
+    color: #8B8B8B;
+    opacity: 1;
+    font-size:1.2vw;
+    width:15vw;
+    margin-left:3vw;
+    margin-top: 2vw;
+    
+    
+}
+
+
+
+.card7{
+    text-align: center;
+    width: 100vw !important;
+    margin-top: 100px;
+    background-color: #3f3655;
+    background-image: url('../../assets/images/blockIMGdown.svg');
+    
+}
+.card7 .downButton{
+    background-color: #2acfcf;
+    border-radius: 10px;
+    opacity: 1;
+    display: inline-block;
+    font-size:20px;
+    padding:14px;
+    border-radius: 50px;
+    font-weight: bold;
+    opacity: 1;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0em;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 2vw;
+    
+   
+    
+    
+}
+.card7 .downButton:hover{
+    opacity: 50%;
+    cursor: pointer;
+    
+}
+
+.card71{
+    width:60vw;
+}
+
+.heading7{
+    
+    font: Medium 50px/60px Poppins;
+    letter-spacing: 0px;
+    color:white;
+    opacity: 1;
+    font-size: 40px;
+    
+    padding-top: 50px;
+   
+}
+
+.card72{
+    width:24vw;
+}
+
+
+
+.Footerlogo{
+    width:20vw;
+    margin-left:5vw;
+    margin-right:5vw;
+    color: white;
+    
+    
+}
+
+.footer {
+    padding-top:30px;
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    position: relative;
+    background-color: #F9FAFA;
+    height: max-content;
+    background-color: #302e35;
+}
+
+.footer .col {
+    width: 190px;
+    height: auto;
+    float: left;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 0px 20px 20px 20px;
+  }
+  .footer .col h1 {
+    margin: 0;
+    padding: 0;
+    font-family: inherit;
+    font-size: 12px;
+    line-height: 17px;
+    padding: 20px 0px 5px 0px;
+    color: black;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: 0.250em;
+    color:white
+  }
+
+  
+  .footer .col ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .footer .col ul li {
+    color: #999999;
+    font-size: 14px;
+    font-family: inherit;
+    font-weight: bold;
+    padding: 5px 0px 5px 0px;
+    cursor: pointer;
+    transition: .2s;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+  }
+
+  .footer .col ul li:hover{
+      color: #4bdddd;
+      cursor: pointer;
+  }
+
+  .col1 ul li {
+    display: inline-block;
+    padding-right: 5px !important;
+    
+    margin-right: 1vw;
+  }
+
+
+
+  
+  .col1 ul li img:hover{
+    cursor: pointer;
+    background-color:#2dbdbd
+}
+  @media only screen and (min-width: 1280px) {
+    .contain {
+      width: 1200px;
+      margin: 0 auto;
+    }
+  }
+  
+ 
+  @media only screen and (max-width: 500px) {
+      .footer .col {
+        width: 50%;
+      }
+      .footer .col h1 {
+        font-size: 14px;
+      }
+      .footer .col ul li {
+        font-size: 13px;
+      }
+      .col1 h1{
+          margin-left:50px;
+      }
+      .end{
+          text-align: center;
+          margin-left: 40px;
+      }
+  }
+  @media only screen and (max-width: 340px) {
+    .footer .col {
+      width: 100%;
+    }
+  }
+
+  
+
+
+
+
+
